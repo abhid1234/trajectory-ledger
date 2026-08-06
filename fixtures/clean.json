@@ -1,0 +1,1 @@
+{"fixture_version":"phase1a-1","manifest":{"environment":"darwin-24.6","fixture":"clean-control","seed":1},"records":[{"actor":"agent-a","classification":"internal","id":"event-1","kind":"start","parents":[],"state_version":"s1","type":"event"}],"run_id":"run-clean"}
